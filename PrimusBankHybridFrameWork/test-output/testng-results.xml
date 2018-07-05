@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36078" started-at="2018-04-07T13:44:35Z" finished-at="2018-04-07T13:45:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36078" started-at="2018-04-07T13:44:35Z" finished-at="2018-04-07T13:45:11Z">
+      <class name="com.primusbank.tests.PrimusBankHybridTest">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:com.primusbank.tests.PrimusBankHybridTest@18be83e4]" name="launchApp" is-config="true" duration-ms="21208" started-at="2018-04-07T13:44:35Z" finished-at="2018-04-07T13:44:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="keywrodDrivenTest()[pri:0, instance:com.primusbank.tests.PrimusBankHybridTest@18be83e4]" name="keywrodDrivenTest" duration-ms="14803" started-at="2018-04-07T13:44:56Z" finished-at="2018-04-07T13:45:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- keywrodDrivenTest -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:com.primusbank.tests.PrimusBankHybridTest@18be83e4]" name="closeApp" is-config="true" duration-ms="21" started-at="2018-04-07T13:45:11Z" finished-at="2018-04-07T13:45:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- com.primusbank.tests.PrimusBankHybridTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
